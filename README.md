@@ -1,6 +1,6 @@
 # Hi, I'm Meghana 👋
 
-Business Analyst by profession, lifelong learner by choice.
+Analyst by profession, lifelong learner by choice.
 
 I enjoy exploring AI, data, business, and the small ideas that eventually grow into meaningful products.
 
@@ -19,7 +19,7 @@ I enjoy exploring AI, data, business, and the small ideas that eventually grow i
 ## About Me
 
 - M.S. Business Analytics, University of New Haven
-- Curious about AI, data, business, and human behavior
+- Passionate about AI, data, business transformation, and human-centered growth
 - I enjoy turning ideas into practical solutions
 - I read, explore, and keep learning
 
@@ -42,7 +42,7 @@ I believe learning never really ends—it just changes direction.
 
 ---
 
-## Connect
+## Let's Connect
 
 Portfolio: https://meghana-l.github.io/
 
