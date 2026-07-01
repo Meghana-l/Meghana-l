@@ -41,11 +41,3 @@ Right now, that means exploring topics like:
 I believe learning never really ends—it just changes direction.
 
 ---
-
-## Let's Connect
-
-Portfolio: https://meghana-l.github.io/
-
-LinkedIn: https://linkedin.com/in/meghana-swamy
-
-Email: meghana.drlnswamy@gmail.com
