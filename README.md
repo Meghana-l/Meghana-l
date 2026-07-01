@@ -1,0 +1,51 @@
+# Hi, I'm Meghana 👋
+
+Business Analyst by profession, lifelong learner by choice.
+
+I enjoy exploring AI, data, business, and the small ideas that eventually grow into meaningful products.
+
+---
+
+## GitHub Stats
+
+![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghana-l&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Meghana-l&theme=dark)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=Meghana-l&color=blue)
+
+---
+
+## About Me
+
+- M.S. Business Analytics, University of New Haven
+- Curious about AI, data, business, and human behavior
+- I enjoy turning ideas into practical solutions
+- I read, explore, and keep learning
+
+---
+
+## Currently Exploring
+
+I like following my curiosity.
+
+Right now, that means exploring topics like:
+
+- Artificial Intelligence
+- Business Strategy
+- Data Analytics
+- Product Thinking
+- Automation
+- Human-centered Technology
+
+I believe learning never really ends—it just changes direction.
+
+---
+
+## Connect
+
+Portfolio: https://meghana-l.github.io/
+
+LinkedIn: https://linkedin.com/in/meghana-swamy
+
+Email: meghana.drlnswamy@gmail.com
